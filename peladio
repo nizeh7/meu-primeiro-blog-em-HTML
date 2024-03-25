@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Meu Primeiro Blog HTML</title>
+    </head>
+    <body>  
+        <h1 id="inicio">O que eu Aprendi com o curso Html pela Dio.me</h1>
+        <hr />
+    <h2>Categoria</h2>
+    <ul>
+        <li><a href="#aventurando">Me Aventurando</a></li>
+        <li><a href="#aprendi">O que Aprendi</a></li>
+        <li><a href="#coisas">Outras coisas</a></li>
+        <li><a href="#referencias">Referencia</a></li>
+    </ul>
+    <h2 id="aventurando">Me aventurando </h2>
+    <small><a href="#inicio">(Volta)</a></small>
+    <p>Olá pessoal!
+
+        Recentemente, mergulhei no mundo fascinante do desenvolvimento web e aprendi alguns conceitos básicos de HTML (Hypertext Markup Language). Fiquei surpreso com o quão poderosa e fundamental essa linguagem é para a construção de páginas da web.</p>
+<h2 id="aprendi">O que aprendi</h2>
+<small><a href="#inicio">(Volta)</a></small>
+<p>Uma das coisas mais interessantes que descobri foi como o HTML usa tags para estruturar o conteúdo de uma página. Por exemplo, aprendi que a tag <html> é o ponto de partida de um documento HTML e contém todo o conteúdo da página. Dentro do elemento <html>, podemos encontrar a tag <head>, que geralmente inclui metadados sobre o documento, como o título da página e links para estilos CSS. Além disso, há a tag <body>, onde o conteúdo principal da página é colocado, como textos, imagens, vídeos e outros elementos.</p>
+<h2 id="coisas">Outras Coisas</h2>
+<small><a href="#inicio">(Volta)</a></small>
+<p>Outra coisa interessante que aprendi foi sobre as tags de texto, como 
+  para parágrafos,  para títulos de diferentes níveis de importância e  para criar links. Aprendi a importância de atributos, como href para links e src para imagens, que fornecem informações adicionais para essas tags.
+   <h2 id="referencias">Referencias</h2>
+   <small><a href="#inicio">(Volta)</a></small>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=o0UZNUuFsvA">Introdução ao HTML5</a></li>
+        <li><a href="https://www.youtube.com/watch?v=_fahgk9RjTM">As principais tags HTML5 para iniciar um projeto</a></li>
+        <li><a href="https://www.youtube.com/watch?v=3oSIqIqzN3M">5 MINUTOS DE HTML PARA INICIAR EM PROGRAMAÇÃO!</a></li>
+      
+    </ul>
+  
+  </html>
